@@ -28,9 +28,6 @@ A simple 2D maze runner game built with PyGame where players navigate through in
    - +10 points for each token collected
    - +10 points for completing a level
 
-## Game Video (Find out what will there in level-3)
-
-[Game Video](https://www.youtube.com/watch?v=cfSYiKgdmf0)
 
 ## Requirements
 
@@ -65,8 +62,7 @@ python3 maze_game.py
 
 Read more about the development process and game design:
 
-- [Dev.to Blog Post](https://dev.to/aws-builders/using-amazon-q-cli-pygame-to-build-a-3-level-maze-game-with-hearts-hazards-5an9)
-- [Hashnode Article](https://technodiaryvishnu.hashnode.dev/using-amazon-q-cli-and-pygame-to-build-a-3-level-maze-game-with-hearts-and-hazards)
+- [Medium Link]([https://dev.to/aws-builders/using-amazon-q-cli-pygame-to-build-a-3-level-maze-game-with-hearts-hazards-5an9](https://medium.com/@anandsinghanandsingh20/using-amazon-q-cli-pygame-to-build-a-3-level-maze-game-with-hearts-hazards-8248daeaf711))
 
 ## License
 
