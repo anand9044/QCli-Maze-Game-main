@@ -1,7 +1,5 @@
 # Q Maze Runner
 
-![Main](QCli-Maze-Game-main/QCli-Maze-Game-main/assets/image.png)
-
 ![Q Maze Runner Game](https://raw.githubusercontent.com/anand9044/QCli-Maze-Game-main/main/QCli-Maze-Game-main/QCli-Maze-Game-main/assets/image.png)
 
 
