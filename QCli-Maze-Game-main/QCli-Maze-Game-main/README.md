@@ -1,6 +1,8 @@
 # Q Maze Runner
 
 ![Main](QCli-Maze-Game-main/QCli-Maze-Game-main/assets/image.png)
+QCli-Maze-Game-main/QCli-Maze-Game-main/QCli-Maze-Game-main/
+
 
 
 A simple 2D maze runner game built with PyGame where players navigate through increasingly difficult mazes while collecting tokens and avoiding obstacles.
