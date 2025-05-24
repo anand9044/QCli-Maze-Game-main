@@ -64,7 +64,7 @@ python3 maze_game.py
 
 Read more about the development process and game design:
 
-- [Medium Link]([https://dev.to/aws-builders/using-amazon-q-cli-pygame-to-build-a-3-level-maze-game-with-hearts-hazards-5an9](https://medium.com/@anandsinghanandsingh20/using-amazon-q-cli-pygame-to-build-a-3-level-maze-game-with-hearts-hazards-8248daeaf711))
+- [Medium Link]((https://medium.com/@anandsinghanandsingh20/using-amazon-q-cli-pygame-to-build-a-3-level-maze-game-with-hearts-hazards-8248daeaf711))
 
 ## License
 
